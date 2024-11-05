@@ -5,8 +5,7 @@
   "main": "./src/index.ts",
   "scripts": {
     "dev": "nodemon"
-  },  
-
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
